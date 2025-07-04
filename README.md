@@ -1,0 +1,5 @@
+- **Assignment1.java** – Converts Fahrenheit to Celsius
+- **Assignment2.java** – Calculates base raised to an exponent
+- **Assignment3.java** – Counts vowels in a string
+- **Assignment4.java** – Reverses an array of 10 integers
+- **Assignment5.java** – Counts even and odd numbers in an array

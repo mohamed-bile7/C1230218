@@ -1,5 +1,5 @@
 - **AllJavaExamples** - This file containts all the examples, homeworks,classworks, assignments
-  and lab exercises covered during the second half of the semester — from midterm to final.
+  and lab exercises covered during the second half of the semester from midterm to final.
 
 ## Contents
 
